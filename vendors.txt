@@ -1,4 +1,8 @@
 //This file contains the list of vendors
 //Dr. Joy Kinya
 //Allan Mutai
-//Mark 
+//Mark
+//Dalton Band
+//Leslie Mujenyi
+//Arlene Band
+
