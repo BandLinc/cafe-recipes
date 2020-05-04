@@ -1,1 +1,3 @@
 This is Guacamole recipe
+
+Extra information has been added to the file
